@@ -3,8 +3,7 @@
 
 <b>NOTE:- The Project Files are kept under <a href="https://github.com/shashirajraja/onlinebookstore/tree/gh-pages">gh-pages</a> and <a href="https://github.com/shashirajraja/onlinebookstore/tree/J2EE">J2EE</a> Branch!</b><br/>
 
-#### To View First Front Page Design of this website <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here</a><br>
-<span style="color:blue">**This Website is built for following purpose:-**</span>
+#### To View First Front Page Design of this website
 - For Selling books online.
 - Maintaining books selling history.
 - Adding and managing books.
@@ -32,7 +31,7 @@
 - Html.
 - Css.
 - Javascript.
-- <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here for Front End View</a>
+- 
 
 2. Back-End Development
 - Java [JDK 8+]
@@ -81,29 +80,3 @@ insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','
 commit;
 ```
 
-### ======== Importing and Running The Project Through Eclipse EE ===========
-
-Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
-
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select J2EE Branch > Next > Next > Finish
-
-Step 2: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove and Update Any Libraries if having Red Mark > Finish.
-
-Step 3: [Only If Tomcat Server is not configured in Eclipse] : Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add onlinebookstore > Finish
-
-Step 4: In The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save
-
-Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > Next > Add All> Done
-
-Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstore/">http://localhost:8083/onlinebookstore/</a>
-
-Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
-
-Step 8: Default Username And Password For User Is "shashi" And "shashi"
-
-
-#### "Suggestions and project Improvements are Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
